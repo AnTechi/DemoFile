@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecyclerProject</string>
+    <string-array name="android_versions">
+        <item>Cupcake</item>
+    <item>Donut</item>
+<item>Eclair</item>
+<item>Maha</item>
+<item>lacto</item>
+<item>Cake</item>
+<item>Suji</item>
+<item>Tutu</item>
+<item>Aalu</item>
+<item>Tanu</item>
+
+    </string-array>
+</resources>
